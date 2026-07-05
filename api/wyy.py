@@ -238,3 +238,4 @@ if __name__ == '__main__':
 
     if args.mode == 'api':
         start_api()
+handler = app
