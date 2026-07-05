@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/wyy.py": {
+      "runtime": "python3.12"
+    }
+  }
+}
+
